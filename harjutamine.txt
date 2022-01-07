@@ -1,0 +1,18 @@
+Mis on GitHub?
+
+GitHub Inc on USA-s asuv globaalne ettevõte, mille peamiseks tooteks on Git-il baseeruv tarkvara versioonihalduskeskkond GitHub.
+Kuigi sisuliselt võiks GitHubi kasutada mistahes tüüpi dokumentide versioonihalduseks, kasutatakse seda kõige laialdasemalt siiski tarkvara jaoks. 
+Git ise on käsureal põhinev tööriist, GitHub aga üks selle veebipõhine graafiline kasutajaliides, mis pakub mitmeid lisafunktsioone.
+
+Kes seda kasutavad? 
+
+tarkvaraarendajad, IT-spetsialistid 
+
+Kus saan mina kasutada GitHubi?
+
+GitHubi saaksin kasutada koolis rühmatöid tehes, tööl erinevate projektide meeskonnatöödes. 
+GitHubis saab näiteks iga meeskonnaliige teha tööd oma branchil ja hiljem saab branchid mergeda.
+
+GitHub ajalugu-
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. 
+GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.[
